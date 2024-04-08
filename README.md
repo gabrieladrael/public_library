@@ -23,4 +23,4 @@ Você pode remover ou marcar como lido/não lido cada livro conforme desejar.
 ### Acessando o Slide
 Você pode acessar o slide das imagens disponíveis na Biblioteca dos Sonhos diretamente a partir do seguinte link:
 
-Visualizar Slide
+[Visualizar Slide](https://drive.google.com/file/d/1REvRiI0WmBQGW2kdN-yf1HKSQP_6pz2F/view)
